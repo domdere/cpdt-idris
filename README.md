@@ -1,18 +1,12 @@
-# Functional Programming in Scala (in Idris) 
+# Certified Programming with Dependent Types
 
-[![Gitter chat](https://badges.gitter.im/domdere/fp-in-idris.png)](https://gitter.im/domdere/fp-in-idris)
+This is my [**Idris**] [idris-lang] sandbox for my "Code-A-Long" with the CPDT book.
 
->   If Scala was the only language I had tried FP with, then I would hate FP too!
->
->   -- *Edward Kmett*
+Its not intended to have complete coverage of the book, and there aren't any exercises.
 
-Well its not a verbatim quote, but I think he said something along those lines and I would agree on that point.
+Its mainly for me to work through concepts that I can't grok directly from the prose.
 
-And he probably wouldn't suggest learning FP with **Idris** either...
+Adam Chlipala uses *crush* to just trivially crank out a lot of results and sometimes
+I just need to work through the proof manually to understand why something is.
 
-**Haskell** is my favourite language, but I figured I would take the chance to try out **Idris** for something different.
-
-These are my attempts to work through the exercises in [**Functional Programming in Scala**] [fp-in-scala] in [**Idris**] [idris-lang]
-
-[fp-in-scala]: http://www.manning.com/bjarnason/ "Functional Programming in Scala @ Manning.com"
 [idris-lang]: http://www.idris-lang.org/ "idris-lang.org"
