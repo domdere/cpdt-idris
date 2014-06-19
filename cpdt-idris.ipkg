@@ -1,0 +1,5 @@
+package cpdtIdris
+
+modules =   WellFounded.Acc
+
+sourcedir = src
